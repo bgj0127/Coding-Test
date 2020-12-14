@@ -1,3 +1,4 @@
+// 프로그래머스 2단계 
 
 function solution(priorities, location) {
     var answer = 0;
